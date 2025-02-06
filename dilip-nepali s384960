@@ -1,0 +1,6 @@
+# main.py
+  from gui import ImageEditorGUI
+
+  if_name_=="_main_":
+      app = ImageEditorGUI()
+        app.run()
